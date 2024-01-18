@@ -6,7 +6,7 @@
 
 **My name**: Mustapha
 **Age**:19yo 
-   _My purpose in life is to make a good work no matter was the field_
+   _My purpose in life is to make a good work whatever was the field_
        **my advice for you**, _stand up, so that you can see_
                   __thanks for your trust__
             
