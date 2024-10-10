@@ -1,7 +1,5 @@
 # hello-world
-1. Lean with it no matter what it takes.
-2. Shortness was always the problem. 
-3. Just crack the hell out of it.
+This is my first repository using Git and GitHub
 # About me 
 
 **My name** is, Mustapha,
